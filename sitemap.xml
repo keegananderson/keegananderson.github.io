@@ -23,10 +23,6 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://keegananderson.github.io/pages/" />
  </url>
  <url>
-  <loc>https://keegananderson.github.io/af/pages/test/</loc>
-  <lastmod>2026-04-01T19:39:00Z</lastmod>
- </url>
- <url>
   <loc>https://keegananderson.github.io/archive.html</loc>
   <lastmod>2026-04-01T19:47:00Z</lastmod>
  </url>
@@ -45,9 +41,5 @@
  <url>
   <loc>https://keegananderson.github.io/pages/</loc>
   <lastmod>2026-04-01T19:47:00Z</lastmod>
- </url>
- <url>
-  <loc>https://keegananderson.github.io/pages/test/</loc>
-  <lastmod>2026-04-01T19:39:00Z</lastmod>
  </url>
 </urlset>
