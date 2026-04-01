@@ -23,7 +23,7 @@ BLOG_TITLE = "Keegan D. Anderson, PhD"  # (translatable)
 SITE_URL = "https://keegananderson.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-BASE_URL = "https://keegananderson.github.io/pages"
+BASE_URL = "https://keegananderson.github.io/"
 BLOG_EMAIL = "keegandoig@gmail.com"
 BLOG_DESCRIPTION = ""  # (translatable)
 
@@ -240,18 +240,24 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-POSTS = ()
 #POSTS = (
 #    ("posts/*.rst", "posts", "post.tmpl"),
 #    ("posts/*.md", "posts", "post.tmpl"),
 #    ("posts/*.txt", "posts", "post.tmpl"),
 #    ("posts/*.html", "posts", "post.tmpl"),
 #)
+#PAGES = (
+#    ("pages/*.rst", "pages", "page.tmpl"),
+#    ("pages/*.md", "pages", "page.tmpl"),
+#    ("pages/*.txt", "pages", "page.tmpl"),
+#    ("pages/*.html", "pages", "page.tmpl"),
+#)
+POSTS = ()
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
 )
 
 
@@ -588,7 +594,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-INDEX_PATH = "blog"
+# INDEX_PATH = "blog"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -1366,6 +1372,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # DISABLE_INDEXES = False
 # DISABLE_MAIN_ATOM_FEED = False
 # DISABLE_MAIN_RSS_FEED = False
+DISABLE_INDEXES = True
 
 # Add the absolute paths to directories containing plugins to use them.
 # For example, the `plugins` directory of your clone of the Nikola plugins
