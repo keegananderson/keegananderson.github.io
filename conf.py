@@ -23,7 +23,7 @@ BLOG_TITLE = "Keegan D. Anderson, PhD"  # (translatable)
 SITE_URL = "https://keegananderson.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://keegananderson.github.io/"
+BASE_URL = "https://keegananderson.github.io/pages"
 BLOG_EMAIL = "keegandoig@gmail.com"
 BLOG_DESCRIPTION = ""  # (translatable)
 
