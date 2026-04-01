@@ -141,15 +141,17 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/about.html", "About"),
+        ("/cv.html", "CV"),
+        ("/research.html", "Research"),
+        ("/teaching.html", "Teaching"),
     ),
 
     "af": (
-        ("/af/archive.html", "Argief"),
-        ("/af/categories/", "Etikette"),
-        ("/af/rss.xml", "RSS-voer"),
+        ("/af/about.html", "Oor"),
+        ("/af/cv.html", "CV"),
+        ("/af/research.html", "Navorsing"),
+        ("/af/teaching.html", "Onderrig"),
     ),
 }
 
@@ -1075,7 +1077,7 @@ STRIP_INDEXES = True
 # This can be disabled on a per-page/post basis by adding
 #    .. pretty_url: False
 # to the metadata.
-PRETTY_URLS = True
+PRETTY_URLS = False
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
