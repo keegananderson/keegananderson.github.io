@@ -7,43 +7,79 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://keegananderson.github.io/</loc>
-  <lastmod>2026-04-01T20:43:00Z</lastmod>
+  <lastmod>2026-04-01T21:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/about.html</loc>
+  <lastmod>2026-04-01T21:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/about/</loc>
+  <lastmod>2026-04-01T20:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://keegananderson.github.io/af/</loc>
-  <lastmod>2026-04-01T20:43:00Z</lastmod>
+  <lastmod>2026-04-01T21:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/af/about.html</loc>
+  <lastmod>2026-04-01T21:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/af/about/</loc>
+  <lastmod>2026-04-01T20:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://keegananderson.github.io/af/archive.html</loc>
-  <lastmod>2026-04-01T20:35:00Z</lastmod>
- </url>
- <url>
-  <loc>https://keegananderson.github.io/af/blog/</loc>
-  <lastmod>2026-04-01T20:12:00Z</lastmod>
+  <lastmod>2026-04-01T21:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://keegananderson.github.io/af/categories/</loc>
   <lastmod>2026-04-01T19:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://keegananderson.github.io/af/cv.html</loc>
+  <lastmod>2026-04-01T21:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/af/cv/</loc>
+  <lastmod>2026-04-01T20:52:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://keegananderson.github.io/af/galleries/</loc>
   <lastmod>2026-04-01T19:39:00Z</lastmod>
  </url>
  <url>
-  <loc>https://keegananderson.github.io/af/pages/</loc>
-  <lastmod>2026-04-01T19:47:00Z</lastmod>
+  <loc>https://keegananderson.github.io/af/research.html</loc>
+  <lastmod>2026-04-01T21:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/af/research/</loc>
+  <lastmod>2026-04-01T20:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/af/teaching.html</loc>
+  <lastmod>2026-04-01T21:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/af/teaching/</loc>
+  <lastmod>2026-04-01T20:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://keegananderson.github.io/archive.html</loc>
-  <lastmod>2026-04-01T20:35:00Z</lastmod>
- </url>
- <url>
-  <loc>https://keegananderson.github.io/blog/</loc>
-  <lastmod>2026-04-01T20:12:00Z</lastmod>
+  <lastmod>2026-04-01T21:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://keegananderson.github.io/categories/</loc>
   <lastmod>2026-04-01T19:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/cv.html</loc>
+  <lastmod>2026-04-01T21:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/cv/</loc>
+  <lastmod>2026-04-01T20:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://keegananderson.github.io/galleries/</loc>
@@ -54,7 +90,19 @@
   <lastmod>2026-04-01T19:39:00Z</lastmod>
  </url>
  <url>
-  <loc>https://keegananderson.github.io/pages/</loc>
-  <lastmod>2026-04-01T19:47:00Z</lastmod>
+  <loc>https://keegananderson.github.io/research.html</loc>
+  <lastmod>2026-04-01T21:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/research/</loc>
+  <lastmod>2026-04-01T20:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/teaching.html</loc>
+  <lastmod>2026-04-01T21:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://keegananderson.github.io/teaching/</loc>
+  <lastmod>2026-04-01T20:52:00Z</lastmod>
  </url>
 </urlset>
