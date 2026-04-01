@@ -1,0 +1,4 @@
+Sitemap: https://keegananderson.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: keegananderson.github.io
